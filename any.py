@@ -13,12 +13,6 @@ a=b
 print (a)
 
 
-a=a+23
 
-print (a)
+b=b*2
 
-
-
-
-
->>>>>>> 60fa8811711330b8d9e0afbc8e54149d50a1a067
