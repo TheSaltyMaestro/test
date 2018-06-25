@@ -7,4 +7,14 @@ b=12
 a=b
 
 
+print (a)
+
+
+a=a+23
+
+print (a)
+
+
+
+
 
